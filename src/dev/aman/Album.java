@@ -11,7 +11,7 @@ public class Album {
 
 
     LinkedList<Song> songs = new LinkedList<>();//preferences for constant
-    // insertion/deletion  that arrayList
+    // if too much insertion/deletion  than arrayList
 
 
     //Album Constructor
